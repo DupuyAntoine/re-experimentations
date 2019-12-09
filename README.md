@@ -24,7 +24,7 @@ Réaliser un système qui rendra les services suivants :
 | Tableur | Quentin AUBRY           | Valentin MONTAL       | https://github.com/Breahkd46/ingenierie_sys                             |     |
 | Tableur | Thomas COLETTE          | Corentin GRANDCHAMPS  | https://github.com/GrandchampsCorentin/re-experimentations              |     |
 | US | Lucas BARROS            | Jonathan ROCHELLI     | https://github.com/Barros-Lucas/Alfred_Requirement                      |     |
-| US | Brian GRILLOT           | Ignacio MENDEZ POVEDA | https://github.com/kebabvegan/TP_re-experimentation                     |     |
+| US | Brian GRILLOT           | Ignacio MENDEZ POVEDA | https://github.com/kebabvegan/TP_re-experimentation                     |  https://github.com/briangrillot/Alfred_Requirement   |
 | Papyrus Req | Rémi BE                 | Vincent CIZEY         | https://github.com/kideisui/be_cizey_re-experimentations.git            |     |
 | Papyrus Req | Thomas PALIS            | Adrien STORA          | https://github.com/adrienstora/alfred                                   |https://github.com/adrienstora/be_cizey_re-experimentations.git     |
 | RSML | Nicolas BRIET           | Mathieu OLIVES DELMAS | https://github.com/ChiliChunk/re-experimentations                       |     |
