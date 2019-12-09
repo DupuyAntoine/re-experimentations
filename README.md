@@ -27,7 +27,7 @@ Réaliser un système qui rendra les services suivants :
 | US | Brian GRILLOT           | Ignacio MENDEZ POVEDA | https://github.com/kebabvegan/TP_re-experimentation                     |  https://github.com/briangrillot/Alfred_Requirement   |
 | Papyrus Req | Rémi BE                 | Vincent CIZEY         | https://github.com/kideisui/be_cizey_re-experimentations.git            |     |
 | Papyrus Req | Thomas PALIS            | Adrien STORA          | https://github.com/adrienstora/alfred                                   |https://github.com/adrienstora/be_cizey_re-experimentations.git     |
-| RSML | Nicolas BRIET           | Mathieu OLIVES DELMAS | https://github.com/ChiliChunk/re-experimentations                       |     |
+| RSML | Nicolas BRIET           | Mathieu OLIVES DELMAS | https://github.com/ChiliChunk/re-experimentations                       |  https://github.com/ChiliChunk/requirementAlfred   |
 | RSML | Laurianne SOULIGNAC     | Arthur REAU           | https://github.com/reauarthur/requirementAlfred.git                     |     |
 | Papyrus Tab | Bastien DIDIER          | Gilles LABROUSSE      | https://github.com/silverspy/Sysml-table                                | https://github.com/silverspy/re-experimentations |
 | Papyrus Tab | François-Xavier BECKERT | Edern HERVOUËT        | https://github.com/EHdyod/re-experimentations                           | https://github.com/EHdyod/Sysml-table.git    |
