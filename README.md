@@ -29,7 +29,7 @@ Réaliser un système qui rendra les services suivants :
 | Papyrus Req | Thomas PALIS            | Adrien STORA          | https://github.com/adrienstora/alfred                                   |https://github.com/adrienstora/be_cizey_re-experimentations.git     |
 | RSML | Nicolas BRIET           | Mathieu OLIVES DELMAS | https://github.com/ChiliChunk/re-experimentations                       |     |
 | RSML | Laurianne SOULIGNAC     | Arthur REAU           | https://github.com/reauarthur/requirementAlfred.git                     |     |
-| Papyrus Tab | Bastien DIDIER          | Gilles LABROUSSE      | https://github.com/silverspy/Sysml-table                                |     |
+| Papyrus Tab | Bastien DIDIER          | Gilles LABROUSSE      | https://github.com/silverspy/Sysml-table                                | https://github.com/silverspy/re-experimentations |
 | Papyrus Tab | François-Xavier BECKERT | Edern HERVOUËT        | https://github.com/EHdyod/re-experimentations                           | https://github.com/EHdyod/Sysml-table.git    |
 
 ## Techniques de modélisation
