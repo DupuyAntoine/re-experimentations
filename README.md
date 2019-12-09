@@ -22,7 +22,7 @@ Réaliser un système qui rendra les services suivants :
 | Libre | Kamal ARAAB             | Emma DOS SANTOS       | https://github.com/edossantos241/RequirementEngineeringExperimentations |   ??  |
 | Libre | Quentin CESCHIN         | Ancelin GLORIES       | https://github.com/quentinceschin123456/re-experimentations             |     |
 | Tableur | Quentin AUBRY           | Valentin MONTAL       | https://github.com/Breahkd46/ingenierie_sys | https://github.com/Breahkd46/re-experimentations                            |     |
-| Tableur | Thomas COLETTE          | Corentin GRANDCHAMPS  | https://github.com/GrandchampsCorentin/re-experimentations              |     |
+| Tableur | Thomas COLETTE / Antoine DUPUY  | Corentin GRANDCHAMPS  | https://github.com/GrandchampsCorentin/re-experimentations              |   https://github.com/DupuyAntoine/ingenierie_sys  |
 | US | Lucas BARROS            | Jonathan ROCHELLI     | https://github.com/Barros-Lucas/Alfred_Requirement                      |     |
 | US | Brian GRILLOT           | Ignacio MENDEZ POVEDA | https://github.com/kebabvegan/TP_re-experimentation                     |  https://github.com/briangrillot/Alfred_Requirement   |
 | Papyrus Req | Rémi BE                 | Vincent CIZEY         | https://github.com/kideisui/be_cizey_re-experimentations.git            |     |
